@@ -1,3 +1,4 @@
 # tattoo
 
-This interactive art project lets people all over the world design your tattoo. All it needs is a server with php.
+An interactive art project which allows strangers to design a Mondrian styled tattoo for me.
+It was specifically designed to run on a free web server with limited ressources and possibilities.
